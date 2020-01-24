@@ -1,0 +1,2 @@
+# Blockchain-Based-Intelligent-System-to-Ensure-Occupational-Safety-and-Fraud-Prevention-System
+Verification of the job related documents are time consuming and cost extensive. In addition, companies usually had to rely on third party for the verification process which sometimes become very cumbersome. In this work, we have shown how blockchain technology can be used to overcome those limitations.
